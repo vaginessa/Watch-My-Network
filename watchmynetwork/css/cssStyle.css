@@ -1,0 +1,67 @@
+/* reset css (+) */
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td {margin: 0;padding: 0;border: 0;outline: 0;font-size: 100%;vertical-align: baseline;background: transparent;}body {line-height: 1;}ol, ul {list-style: none;}blockquote, q {quotes: none;}blockquote:before, blockquote:after,q:before, q:after {content: '';content: none;}:focus {outline: 0;}ins {text-decoration: none;}del {text-decoration: line-through;}table {border-collapse: collapse;border-spacing: 0;}
+/* reset css (-) */
+
+/* watchmynetwork CSS (+) */
+body ,input ,select    {font:11px/12px verdana,sans-serif;}
+
+#container {width:752px;height:604px;margin: 30px auto 0 auto;}
+
+#header {border:1px solid #000000;border-radius: 10px 10px 0 0;-moz-border-radius: 10px 10px 0 0;-o-border-radius: 10px 10px 0 0;height:30px;width: 110px;margin-left:640px;
+    background: url(../img/spring_flowers_vase_header.png) center center repeat-x;overflow:hidden;
+}
+
+#header .link {width:50%;height:22px;padding-top:8px;float:left;text-align: center;font-size: 14px;}
+#header .link:hover {cursor:pointer;background: url(../img/spring_flowers_vase_header2.png) center center repeat-x;color:white;}
+#header .home{
+border-radius: 10px 0 0 0;-moz-border-radius:10px 0 0 0;-o-border-radius: 10px 0 0 0;
+}
+#header .about{
+border-radius: 0 10px 0 0;-moz-border-radius: 0 10px 0 0;-o-border-radius:0 10px 0 0;
+}
+
+#wait, #content {overflow:hidden; border:1px solid #000000;height:550px;width:730px;background:#ffffff;border-radius: 20px 0px;-moz-border-radius: 20px 0px;-o-border-radius: 20px 0px;padding:10px;}
+
+#content {background: url(../img/spring_flowers_vase.png) center center no-repeat;}
+#wait {display:none;position:absolute;margin-top:-572px;opacity:0.5;text-align: center;}
+#wait img {margin-top:258px;}
+
+#wait, #content ,#header  {
+filter: progid:DXImageTransform.Microsoft.Shadow(Strength=10, Direction=135, Color='#000000');
+-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=10, Direction=135, Color='#000000')";
+-moz-box-shadow: 3px 3px 10px #000;
+-webkit-box-shadow: 3px 3px 10px #000;
+box-shadow: 3px 3px 10px #000;
+}
+
+#ipMacChanging, #newDeviceForm {font:16px/16px verdana,sans-serif;}
+
+#ipMacChanging select {width:150px;text-align: center;}
+#vlanData  input[type=text]  {width:30px;}
+
+/* watchmynetwork CSS (-) */
+
+/* pagination CSS (+) */
+
+.databox *      {font:10px/11px verdana,sans-serif;overflow:hidden;}
+.databox h1     {font:20px/21px verdana,sans-serif;color:#ffffff;padding:2px 10px;margin:0 0 4px 10px;border-bottom:2px solid #00ff00;width:680px;text-shadow: 3px 3px 5px #000000;}
+.boxheader      {width:70px;padding:5px;float:left;border:1px solid #ffff00;background:#9097A9;color:#ffffff;margin:1px;text-align:center;}
+.boxrow         {height:20px;background:#fefefe;width:70px;padding:5px;float:left;border:1px solid #aaaaaa;margin:1px;text-align:center;color:#000000;}
+.boxrow a       {width:100%;float:left;border:none;cursor:pointer;font-size:13px;font-weight:bold;color:red;font-family:"Times New Roman";height:13px;text-shadow: 1px 1px 1px #dddddd;}
+
+.pagination             {float:right;margin:4px 10px 0 0;color:white;text-shadow: 3px 3px 5px #000000;}
+.pages, .pageno	        {float:left;}
+.pagination a	        {text-decoration:none;color:white;}
+.pagination a:hover     {text-decoration:underline;}
+
+/* pagination CSS (-) */
+
+#about,#about a {font-weight:bold !important;text-shadow: 2px 2px 7px #000000;color:#ffffff;text-decoration: none;}
+
+#home {font-weight:bold !important;text-shadow: 2px 2px 80px #ffffff;margin:150px 140px;overflow: hidden;width:470px;}
+#home a {float:left;width:200px;height: 33px;margin:10px;background:url(../img/home_tab.png) top left no-repeat;text-align: center;padding-top:15px;text-decoration: none;color:black !important;
+-moz-box-shadow:0px 3px 6px #ffffff, -0px -3px 4px #ffffff;
+box-shadow:0px 3px 6px #ffffff, -0px -3px 4px #ffffff;
+}
+#home a:hover {text-decoration: underline;}
+#home a:last-child {margin-left: 125px;}
