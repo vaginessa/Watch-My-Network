@@ -1,9 +1,7 @@
 <?php
 /*
  *
- * Veysi Ertekin <veysi.ertekin123@gmail.com>
- * http://www.veysiertekin.com
- *
+ * Veysi Ertekin <veysi.ertekin123{}gmail.com>
  *
  */
 

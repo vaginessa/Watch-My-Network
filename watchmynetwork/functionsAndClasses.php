@@ -3,11 +3,9 @@
  *
  * This file has some ipv6 functions and a XML processing class.
  *
- * Veysi Ertekin <veysi.ertekin123@gmail.com>
- * http://www.veysiertekin.com
  *
- * http://www.php.net
- * 
+ * Veysi Ertekin <veysi.ertekin123{}gmail.com>
+ *
  */
 
 
