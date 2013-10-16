@@ -1,6 +1,5 @@
   watchMyNetwork v0.0.1 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/veysiertekin/Watch-My-Network/badges/quality-score.png?s=3c9f80ff2e3fbfbea36170c417e057a489c732c1)](https://scrutinizer-ci.com/g/veysiertekin/Watch-My-Network/)
 -----------------------------------------------
-	*   Veysi Ertekin  <ertekin.veysi{}gmail.com>
 
 This script find out network devices which was connected to LAN, and saves details of those devices to a MySQL database.
 
