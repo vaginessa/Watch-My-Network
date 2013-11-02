@@ -38,5 +38,6 @@ Remove:
 
 2- That's all :) 
 
-by Veysi Ertekin
+
+<span style="font-size: 0%"><a href="https://plus.google.com/+VeysiErtekin?rel=author"></a></span>
 
