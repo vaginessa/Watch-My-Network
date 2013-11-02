@@ -39,5 +39,5 @@ Remove:
 2- That's all :) 
 
 
-<span style="font-size: 0%"><a href="https://plus.google.com/+VeysiErtekin?rel=author"></a></span>
+<a href="https://plus.google.com/+VeysiErtekin?rel=author">&nbsp;</a>
 
