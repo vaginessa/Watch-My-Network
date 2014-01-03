@@ -6,10 +6,14 @@ This script find out network devices which was connected to LAN, and saves detai
 Requirements:
 
 1- apache2, web server.
+
 2- php5, hypertext preprocessor
+
 	(optional) : gmp_lib (for storage and processing of IPv6 addresses) [ubuntu package name : php5-gmp]
+
 3- nmap, security scanner.
 
+-----------------------------------------------
 How to install and configure?
 
 1- Please check permissions, database and nmap configs.
